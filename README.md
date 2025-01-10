@@ -1,5 +1,5 @@
 
-<b>This repository contains an analysis of Queen's music data.</b>
+This repository contains an analysis of <b>Queen's music</b> data. [More about Queen](https://en.wikipedia.org/wiki/Queen_(band))
 
 <h2>Data Sources</h2>
 
