@@ -1,10 +1,10 @@
 
-<b>This repository contains an analysis of Queen's music data.</b>
+This repository contains an analysis of <b>Queen's music</b> data. [More about Queen](https://en.wikipedia.org/wiki/Queen_(band))
 
 <h2>Data Sources</h2>
 
-- Chinook SQLite database: Used to retrieve song data, artist, album and composer
-- kworb.net: Used to do web scraping for total and daily streams data
+- [Chinook database](https://github.com/lerocha/chinook-database) : Used to retrieve song data, artist, album and composer
+- [kworb.net](https://kworb.net/spotify/artist/1dfeR4HaWDbWqFHLkxsg1d_songs.html) : Used to do web scraping for total and daily streams data 
   
 <h2>Analysis Performed</h2>
 
